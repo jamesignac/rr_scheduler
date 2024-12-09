@@ -1,6 +1,3 @@
-# rr_scheduler
-Round Robin Scheduler simulator for my Operating Systems (CISC 3595) course, Fall 2024.
-
 # Round Robin Scheduling Simulator
 
 This program simulates a **Round Robin Scheduling Algorithm** with user-defined parameters, including time quantum and context switch time. It calculates various process metrics such as waiting time, turnaround time, and completion time, and provides insights into the system's performance, including CPU utilization.

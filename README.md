@@ -33,3 +33,6 @@ This program simulates a **Round Robin Scheduling Algorithm** with user-defined 
 To compile the program, open a terminal or command prompt and run the following command:
 ```bash
 g++ -o round_robin round_robin.cpp
+
+./round_robin
+
